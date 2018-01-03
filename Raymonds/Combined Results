@@ -1,0 +1,24 @@
+Total Number of Processes = 5
+Total Number of Critical Section Entries = 95
+Total Number of Messages per CS entry = 1
+Total Average Sync Delay = 11ms
+Total Average Wait Time = 55ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 251
+Total Number of Messages per CS entry = 0
+Total Average Sync Delay = 8ms
+Total Average Wait Time = 188ms
+
+Total Number of Processes = 5
+Total Number of Critical Section Entries = 103
+Total Number of Messages per CS entry = 0
+Total Average Sync Delay = 5ms
+Total Average Wait Time = 36ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 260
+Total Number of Messages per CS entry = 0
+Total Average Sync Delay = 7ms
+Total Average Wait Time = 179ms
+

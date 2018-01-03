@@ -1,0 +1,60 @@
+Total Number of Processes = 15
+Total Number of Critical Section Entries = 95
+Total Number of Messages per CS entry = 14
+Total Average Sync Delay = 8
+Total Average Wait Time = 1888
+
+Total Number of Processes = 20
+Total Number of Critical Section Entries = 131
+Total Number of Messages per CS entry = 19
+Total Average Sync Delay = 9ms
+Total Average Wait Time = 3071ms
+
+Total Number of Processes = 5
+Total Number of Critical Section Entries = 27
+Total Number of Messages per CS entry = 4
+Total Average Sync Delay = 7ms
+Total Average Wait Time = 111ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 67
+Total Number of Messages per CS entry = 9
+Total Average Sync Delay = 8ms
+Total Average Wait Time = 926ms
+
+Total Number of Processes = 25
+Total Number of Critical Section Entries = 166
+Total Number of Messages per CS entry = 24
+Total Average Sync Delay = 7ms
+Total Average Wait Time = 3733ms
+
+Total Number of Processes = 25
+Total Number of Critical Section Entries = 168
+Total Number of Messages per CS entry = 24
+Total Average Sync Delay = 7ms
+Total Average Wait Time = 3837ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 57
+Total Number of Messages per CS entry = 9
+Total Average Sync Delay = 6ms
+Total Average Wait Time = 820ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 64
+Total Number of Messages per CS entry = 9
+Total Average Sync Delay = 7ms
+Total Average Wait Time = 870ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 276
+Total Number of Messages per CS entry = 9
+Total Average Sync Delay = 7ms
+Total Average Wait Time = 231ms
+
+Total Number of Processes = 10
+Total Number of Critical Section Entries = 276
+Total Number of Messages per CS entry = 9
+Total Average Sync Delay = 6ms
+Total Average Wait Time = 255ms
+
